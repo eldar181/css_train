@@ -1,3 +1,3 @@
 вторая строка
-[index](index.md)
+[main page](index.md)
 третья строка
