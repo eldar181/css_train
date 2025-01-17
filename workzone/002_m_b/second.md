@@ -1,3 +1,3 @@
 вторая строка
-[index](index.md)
+[index](./index.md)
 третья строка
